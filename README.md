@@ -1,2 +1,2 @@
 # cursoAlura
-##Repositório destinado ao curso da Alura
+## Repositório destinado ao curso da Alura
